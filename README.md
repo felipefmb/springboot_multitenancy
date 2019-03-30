@@ -1,4 +1,4 @@
-Multitenancy application with separation strategy by column (discriminator column)
+h2. Multitenancy application with separation strategy by column (discriminator column)
 
 Multi-tenancy example application installation guide
 
